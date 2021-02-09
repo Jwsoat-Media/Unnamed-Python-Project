@@ -48,6 +48,8 @@ if mathsymbol == 5:
             double2 = math2 * 2
             print(double1)
             print(double2)
+    if moremath == 3:
+        print("Under Construction By")
 
     if moremath == 4:
         powerof = int(input("Pick first or second number or 3 for both "))
