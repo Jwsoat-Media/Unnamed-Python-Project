@@ -1,3 +1,4 @@
+print("Jwsoat Maths Calc")
 import math
 math1 = int(input("First Number? "))
 math2 = int(input("Second Number? "))

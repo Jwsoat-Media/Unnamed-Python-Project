@@ -1,4 +1,5 @@
 import math
+print("Jwsoat Maths Calc")
 print("This Calculator works out time conversion")
 question = int(input("What is the number you want to convert "))
 duration = str(input("What is the duration "))
